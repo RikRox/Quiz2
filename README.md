@@ -1,4 +1,4 @@
-# passwordGenerator
+# Quix
 
 
 📖Weekly Challenge 4
