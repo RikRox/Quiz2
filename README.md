@@ -31,12 +31,12 @@ THEN I can save my initials and score
 
 ![Quiz](./assets/site.PNG)
 
-
-When the button is clicked you will be prompted if you want to customize the password. If you click cancel it will generate a random password with a random length. If you click "ok" to customize the password you will be prompted to choose the length and what characters are allowed. 
+When you click the start button the timer starts and you are presented with a question. When you answer a question you are presented with another question. The game is over when the timer reaches 0. 
 
 
 ## Assets
 
-The URL is: https://rikrox.github.io/passwordGenerator/
+The URL is: https://rikrox.github.io/Quiz2/
 
-Repository located at: https://github.com/RikRox/passwordGenerator
+Repository located at: https://github.com/RikRox/Quiz2
+original repo was: https://github.com/RikRox/Quiz
